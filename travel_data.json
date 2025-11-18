@@ -1,0 +1,169 @@
+{
+    "trips": [
+        {
+            "id": "20f3c68c-2c43-485b-a2af-20b6efa69c36",
+            "title": "Weekend in Barcelona",
+            "destination": "Barcelona, Spain",
+            "start_date": "2025-11-14",
+            "end_date": "2025-11-17",
+            "accommodation": "Hotel Mediterraneo",
+            "notes": "Tapas tour, Sagrada Familia tickets booked.",
+            "activities": [
+                {
+                    "id": "0f1d4260-d092-4c74-b8dc-fe5366503cf0",
+                    "day": "2025-11-12",
+                    "time": "08:00",
+                    "title": "Arrival in Barcelona",
+                    "location": "Barcelona Airport",
+                    "notes": "Flight details, Arrival gate"
+                },
+                {
+                    "id": "df0e8fc8-d0a0-43ca-9ec6-40efd829ebcf",
+                    "day": "2025-11-12",
+                    "time": "10:00",
+                    "title": "Check-in Hotel",
+                    "location": "Hotel Mediterraneo",
+                    "notes": "Room booking, Check-in documents"
+                },
+                {
+                    "id": "821e6a88-6281-4c63-94ce-2cc000b8a3b1",
+                    "day": "2025-11-13",
+                    "time": "09:00",
+                    "title": "City Tour",
+                    "location": "Barcelona City Center",
+                    "notes": "Guided tour, Visit landmarks"
+                },
+                {
+                    "id": "66e9d983-c5e6-45a9-995d-71d8a5d56654",
+                    "day": "2025-11-14",
+                    "time": "03:40",
+                    "title": "а",
+                    "location": "а",
+                    "notes": "а"
+                }
+            ],
+            "budget_items": [
+                {
+                    "id": "081559a0-2ba8-4883-bb3e-e8aaf16aa62c",
+                    "category": "Transport",
+                    "description": "Flights",
+                    "cost": 220.0,
+                    "paid": true
+                },
+                {
+                    "id": "e4072ffa-10c5-4d14-af62-5004988efdca",
+                    "category": "Hotel",
+                    "description": "Hotel Mediterraneo (3 nights)",
+                    "cost": 300.0,
+                    "paid": false
+                }
+            ],
+            "packing_items": [
+                {
+                    "id": "ec52655a-7b41-4734-b093-01c4bfcf09a5",
+                    "item_name": "Passport",
+                    "category": "Documents",
+                    "quantity": 1,
+                    "place": "Carry-on",
+                    "packed": false
+                },
+                {
+                    "id": "56e5f934-329b-4c9a-b409-20f92db7bfe7",
+                    "item_name": "Charger",
+                    "category": "Electronics",
+                    "quantity": 1,
+                    "place": "Carry-on",
+                    "packed": false
+                },
+                {
+                    "id": "c5a0fa2c-da3f-487e-9fd6-c82b0735c563",
+                    "item_name": "Accessories",
+                    "category": "Accessories",
+                    "quantity": 1,
+                    "place": "Carry-on",
+                    "packed": true
+                },
+                {
+                    "id": "00329702-32bc-4a59-8b6d-0d8b2ed17359",
+                    "item_name": "Sunglasses",
+                    "category": "Accessories",
+                    "quantity": 1,
+                    "place": "Carry-on",
+                    "packed": true
+                }
+            ]
+        },
+        {
+            "id": "b98aad5d-43cb-449d-bdce-1955f1797ba9",
+            "title": "madrid",
+            "destination": "barcelona",
+            "start_date": "2025-11-20",
+            "end_date": "2025-11-28",
+            "accommodation": "",
+            "notes": "visa done",
+            "activities": [],
+            "budget_items": [
+                {
+                    "id": "d82c8461-5d9b-4a27-866c-8f7e6611f481",
+                    "category": "",
+                    "description": "",
+                    "cost": 500.0,
+                    "paid": false
+                }
+            ],
+            "packing_items": []
+        },
+        {
+            "id": "a74e0e92-f840-41a1-9a38-adbc953a898f",
+            "title": "America",
+            "destination": "Japan",
+            "start_date": "1945-08-05",
+            "end_date": "1945-08-06",
+            "accommodation": "",
+            "notes": "big boom",
+            "activities": [],
+            "budget_items": [],
+            "packing_items": []
+        },
+        {
+            "id": "b1381c83-4fe7-484f-a36c-8dc71ba61249",
+            "title": "Weekend in Budapest",
+            "destination": "Budapest",
+            "start_date": "2025-11-18",
+            "end_date": "2025-11-20",
+            "accommodation": "Maverick City",
+            "notes": "first time in Budapest",
+            "activities": [
+                {
+                    "id": "808cd213-ed47-4cca-8027-4b84032c8070",
+                    "day": "2025-11-18",
+                    "time": "09:30",
+                    "title": "flight kyiv - budapest",
+                    "location": "kyiv boryspil airport",
+                    "notes": "check-in online"
+                }
+            ],
+            "budget_items": [
+                {
+                    "id": "f8600d32-1fa5-402f-adc5-494321d1bb74",
+                    "category": "Restourants",
+                    "description": "",
+                    "cost": 220.0,
+                    "paid": false
+                }
+            ],
+            "packing_items": [
+                {
+                    "id": "07eeb3b2-265e-4f85-ac36-2f7ae96760cf",
+                    "item_name": "Passport",
+                    "category": "Documents",
+                    "quantity": 1,
+                    "place": "Carry-on",
+                    "packed": true
+                }
+            ]
+        }
+    ],
+    "active_trip_id": "b1381c83-4fe7-484f-a36c-8dc71ba61249",
+    "theme": "dark"
+}
